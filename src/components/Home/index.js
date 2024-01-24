@@ -4,7 +4,7 @@ import themeContext from "../../themeContext/themeContext";
 import Header from "../Header";
 import AboutSection from "../AboutSection";
 import ProjectsSection from "../ProjectsSection";
-// import ContactSection from "../ContactSection";
+import ContactSection from "../ContactSection";
 import Footer from "../Footer";
 
 import { FaArrowCircleRight } from "react-icons/fa";
@@ -56,7 +56,7 @@ function Home() {
       {/* ProjectsSection */}
       <ProjectsSection />
       {/* ContactSection */}
-      {/* <ContactSection /> */}
+      {<ContactSection /> }
       {/* Footer */}
       <hr />
       <Footer />

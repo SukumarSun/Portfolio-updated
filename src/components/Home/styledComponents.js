@@ -17,7 +17,7 @@ export const HeroSection = styled.section`
   align-items: center;
   padding: 0px 80px 0px;
   background-repeat: no-repeat;
-  background-image: url("https://cdn.pixabay.com/photo/2014/06/16/23/39/black-370118_1280.png");
+  background-image: url("https://www.solidbackgrounds.com/images/1920x1080/1920x1080-black-solid-color-background.jpg");
   background-position: right;
   height: 100vh;
 

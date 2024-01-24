@@ -50,16 +50,19 @@ function Header() {
           <NavLink>
             <a href="#projects">PROJECTS</a>
           </NavLink>
-          {/* <NavLink>
-            <a href="#blog">BLOG</a>
-          </NavLink> */}
-          {/* <NavLink>
+          <NavLink>
+            <a href="https://medium.com/@Sukumar_Sundar" rel="noreferrer" target="_blank">BLOG</a>
+          </NavLink>
+          <NavLink>
             <a href="#contact">CONTACT</a>
-          </NavLink> */}
+          </NavLink>
+          <NavLink>
+            <a href="https://drive.google.com/file/d/1f554Fe7_ZN934sjMlw_1Pu42bihjwHP3/view?usp=drive_link" rel="noreferrer" target="_blank">RESUME</a>
+          </NavLink>
           <NavLink>
             <ResumeBtn type="button" isDarkMode={isDarkMode}>
               <a
-                href="https://github.com/SukumarSun"
+                href="https://github.com/SukumarSun?tab=repositories"
                 target="_blank"
                 rel="noreferrer"
                 style={{

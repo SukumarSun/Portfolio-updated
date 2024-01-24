@@ -37,47 +37,40 @@ function AboutSection() {
         </Photowrapper>
         <Background isDarkMode={isDarkMode}>
           <BackgroundTitle>Background</BackgroundTitle>
-          <BackgroundSubtile>A bit About Me</BackgroundSubtile>
+          <BackgroundSubtile>My Story</BackgroundSubtile>
           <Description>
-          I am a passionate and results-driven Full Stack Developer currently contributing my skills to Mindgrep Technologies Pvt Ltd in Dharamshala. 
-          My journey in the tech world started as a Transportation Specialist at Amazon, 
-          where I honed my analytical and problem-solving abilities by utilizing SQL, CRM tools, and 
-          business intelligence to optimize transportation resources. I collaborated across regions, 
-          working with carriers, supply chain, and retail organizations to forecast future demand and 
-          translate it into accurate capacity plans.
+          After pursuing my graduation, I initially aspired to contribute to societal change through Civil Services. 
+
+However, recognizing my strength in problem-solving, I transitioned to Software Development. 
+Despite initially working on databases and UI development, my passion for becoming a full-stack developer led me to enroll in Nxtwave Disruptive Technologies.
+
+With expertise in Python, React JS, JavaScript, Typescript, CLI, Node JS, HTML, CSS, Docusaurus, Mocha, Chai, MongoDB, Mongoose, and SQL databases, I've accumulated 2 years of valuable tech experience. Currently, I'm actively contributing to a product-based startup.
           </Description>
           <Description>
-          Software Engineer | Mindgrep Technologies Pvt Ltd | 09/2023 - Present, Dharamshala
-          Engaged in the development of the backend microservices framework called Godspeed.
-          Instrumental in adding new features and enhancing the overall functionality of the platform.
+          Mindgrep Technologies Pvt Ltd (Software Engineer):
+          As a Software Developer, I specialized in Framework Development & CLI Enhancement. I introduced new features using React.js, Node.js, Express, and YAML DSL, significantly enhancing the Godspeed CLI and boosting customer satisfaction. Additionally, in Documentation and Content Creation, I utilized Docusaurus, achieving a remarkable 30% increase in outreach through impactful blogs and tech videos. My commitment to Testing Excellence involved detailed feature testing with Mocha and Chai, resulting in an error-free framework and a notable 20% reduction in response time.
+
+
+
+
+User
+
           </Description>
           <Description>
-          Transportation Specialist | Amazon | 06/2022 - 09/2023, Hyderabad
-          Utilized analytical skills, SQL, and CRM tools to clean, analyze, and refine data for optimal business results.
-          Collaborated in a cross-functional environment, working closely with carriers, supply chain, and retail organizations.
-          Resolved software bug tickets through data analysis and utilized Optimus software and other tools according to SOP.
+          Amazon(Transportation Technical Specialist): 
+          As a Technical Specialist, I addressed software tickets, achieving a 15% reduction in bugs through the use of HTML, CSS, JavaScript, and React. I also managed transportation databases, refining and analyzing data with SQL, Optimus, and business intelligence to align with demand requirements. A key contribution was boosting capacity planning efficiency by 20% through predictive modeling, optimizing resource allocation, and leading to a 10% reduction in operational costs, resulting in substantial financial savings.
           </Description>
           <Description>
-          Full Stack Development Trainee | Nxtwave Disruptive Technologies | 04/2022 - 06/2023, Hyderabad
+          Nxtwave Disruptive Technologies( Full Stack Development Trainee ):
           Acquired hands-on experience in building Static, Responsive, and Dynamic Web Applications from scratch using the MERN stack.
           Developed a strong foundation in programming with Python and acquired proficiency in both relational and non-relational databases.
           </Description>
           <Description>
-           B. Tech in Electronics & Communication | MLR Institute of Technology-Hyderabad | 06/2013 - 06/2017
+          Beyond tech, I find joy in teaching Tabla for the past five years, blending creativity with discipline.
+Open to collaborations and eager to explore new opportunities!
           </Description>
-          <Description>
-          Full Stack Development,
-          MERN Stack,
-          Python Programming,
-          Relational and Non-Relational Databases,
-          Data Analysis,
-          Software Bug Resolution,
-          Microservices Architecture,
-          </Description>
-          <Description>
-          I am driven by a curiosity to explore new technologies and a commitment to delivering high-quality 
-          solutions. Let's connect and build the future together!
-          </Description>
+
+        
         </Background>
       </AboutContainer>
       <TechStackContainer isDarkMode={isDarkMode}>
