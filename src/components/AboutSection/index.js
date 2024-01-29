@@ -57,8 +57,10 @@ User
 
           </Description>
           <Description>
-          Amazon(Transportation Technical Specialist): 
-          As a Technical Specialist, I addressed software tickets, achieving a 15% reduction in bugs through the use of HTML, CSS, JavaScript, and React. I also managed transportation databases, refining and analyzing data with SQL, Optimus, and business intelligence to align with demand requirements. A key contribution was boosting capacity planning efficiency by 20% through predictive modeling, optimizing resource allocation, and leading to a 10% reduction in operational costs, resulting in substantial financial savings.
+          Amazon(Transportation Specialist): 
+          Managed transportation databases, refining and analyzing data with SQL, Optimus, and business intelligence to align with demand requirements. 
+          I addressed software tickets, achieving a 15% reduction in bugs through the use of SQL, Optimus and Amazon tools.
+          A key contribution was boosting capacity planning efficiency by 20% through predictive modeling, optimizing resource allocation, and leading to a 10% reduction in operational costs, resulting in substantial financial savings.
           </Description>
           <Description>
           Nxtwave Disruptive Technologies( Full Stack Development Trainee ):
