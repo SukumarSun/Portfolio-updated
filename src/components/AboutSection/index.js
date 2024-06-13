@@ -45,7 +45,7 @@ function AboutSection() {
           Mr.Soft Solutions (Software Engineer):
           As a backend developer, I implemented and maintained RESTful APIs to support front-end functionalities, designed and managed database schemas and queries, developed server-side business logic, and collaborated with front-end developers to integrate APIs and resolve related bugs.
 
-User
+
 
           </Description>
           <Description>
