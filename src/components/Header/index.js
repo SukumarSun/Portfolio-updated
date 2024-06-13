@@ -57,7 +57,7 @@ function Header() {
             <a href="#contact">CONTACT</a>
           </NavLink>
           <NavLink>
-            <a href="https://drive.google.com/file/d/1QzXUMMVKZ16aUrlXj0TAzpW6U4b9A_j0/view?usp=drive_link" rel="noreferrer" target="_blank">RESUME</a>
+            <a href="https://drive.google.com/file/d/1iNHv08PSAUELkpttMlRufgkBBtSRPwWT/view?usp=drive_link" rel="noreferrer" target="_blank">RESUME</a>
           </NavLink>
           <NavLink>
             <ResumeBtn type="button" isDarkMode={isDarkMode}>

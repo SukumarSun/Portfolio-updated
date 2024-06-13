@@ -39,16 +39,18 @@ function AboutSection() {
           <BackgroundTitle>Background</BackgroundTitle>
           <BackgroundSubtile>My Story</BackgroundSubtile>
           <Description>
-          After pursuing my graduation, I initially aspired to contribute to societal change through Civil Services. 
+          After graduation, I initially aimed for Civil Services but shifted to Software Development due to my problem-solving skills. With expertise in Node.js, Express.js, JavaScript, TypeScript, MySQL, PostgreSQL, MongoDB, React.js, HTML, CSS, Docusaurus, Mocha, and Chai, I've gained 2 years of experience. Currently contributing to a product-based startup.        </Description>
+          <BackgroundSubtile>Experience</BackgroundSubtile>
+          <Description>
+          Mr.Soft Solutions (Software Engineer):
+          As a backend developer, I implemented and maintained RESTful APIs to support front-end functionalities, designed and managed database schemas and queries, developed server-side business logic, and collaborated with front-end developers to integrate APIs and resolve related bugs.
 
-However, recognizing my strength in problem-solving, I transitioned to Software Development. 
-Despite initially working on databases and UI development, my passion for becoming a full-stack developer led me to enroll in Nxtwave Disruptive Technologies.
+User
 
-With expertise in Python, React JS, JavaScript, Typescript, CLI, Node JS, HTML, CSS, Docusaurus, Mocha, Chai, MongoDB, Mongoose, and SQL databases, I've accumulated 2 years of valuable tech experience. Currently, I'm actively contributing to a product-based startup.
           </Description>
           <Description>
           Mindgrep Technologies Pvt Ltd (Software Engineer):
-          As a Software Developer, I specialized in Framework Development & CLI Enhancement. I introduced new features using React.js, Node.js, Express, and YAML DSL, significantly enhancing the Godspeed CLI and boosting customer satisfaction. Additionally, in Documentation and Content Creation, I utilized Docusaurus, achieving a remarkable 30% increase in outreach through impactful blogs and tech videos. My commitment to Testing Excellence involved detailed feature testing with Mocha and Chai, resulting in an error-free framework and a notable 20% reduction in response time.
+          As a Software Developer, I enhanced the Godspeed CLI using React.js, Node.js, Express, and YAML DSL, boosting customer satisfaction. I increased outreach by 30% through blogs and tech videos with Docusaurus. Detailed testing with Mocha and Chai led to an error-free framework and a 20% reduction in response time.
 
 
 
@@ -57,22 +59,17 @@ User
 
           </Description>
           <Description>
-          Amazon(Transportation Specialist): 
-          Managed transportation databases, refining and analyzing data with SQL, Optimus, and business intelligence to align with demand requirements. 
-          I addressed software tickets, achieving a 15% reduction in bugs through the use of SQL, Optimus and Amazon tools.
-          A key contribution was boosting capacity planning efficiency by 20% through predictive modeling, optimizing resource allocation, and leading to a 10% reduction in operational costs, resulting in substantial financial savings.
-          </Description>
+          Amazon(Transportation Specialist):
+          Managed transportation databases with SQL, Optimus, and BI tools. Reduced bugs by 15% using SQL and Amazon tools. Boosted capacity planning by 20% and cut operational costs by 10% through predictive modeling.     </Description>
           <Description>
           Nxtwave Disruptive Technologies( Full Stack Development Trainee ):
-          Acquired hands-on experience in building Static, Responsive, and Dynamic Web Applications from scratch using the MERN stack.
-          Developed a strong foundation in programming with Python and acquired proficiency in both relational and non-relational databases.
-          </Description>
+          Gained hands on experience building static, responsive, and dynamic web applications using the MERN stack. Developed a strong foundation in Python and proficiency in relational and non-relational databases.       </Description>
           <Description>
           Beyond tech, I find joy in teaching Tabla for the past five years, blending creativity with discipline.
 Open to collaborations and eager to explore new opportunities!
           </Description>
 
-        
+
         </Background>
       </AboutContainer>
       <TechStackContainer isDarkMode={isDarkMode}>
