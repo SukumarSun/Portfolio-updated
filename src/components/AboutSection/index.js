@@ -39,36 +39,28 @@ function AboutSection() {
           <BackgroundTitle>Background</BackgroundTitle>
           <BackgroundSubtile>My Story</BackgroundSubtile>
           <Description>
-          After graduation, I initially aimed for Civil Services but shifted to Software Development due to my problem-solving skills. With expertise in Node.js, Express.js, JavaScript, TypeScript, MySQL, PostgreSQL, MongoDB, React.js, HTML, CSS, Docusaurus, Mocha, and Chai, I've gained 2 years of experience. Currently contributing to a product-based startup.        </Description>
+          Post graduation, I initially aimed for Civil Services but shifted to Software Development due to my problem-solving skills. With expertise in Node.js, Express.js, JavaScript, TypeScript, MySQL, PostgreSQL, MongoDB, React.js, HTML, CSS, Docusaurus, Mocha, and Chai, I've gained 2+ years of Tech experience. Currently contributing to a product-based startup.        </Description>
           <BackgroundSubtile>Experience</BackgroundSubtile>
           <Description>
           Mr.Soft Solutions (Software Engineer):
-          As a backend developer, I implemented and maintained RESTful APIs to support front-end functionalities, designed and managed database schemas and queries, developed server-side business logic, and collaborated with front-end developers to integrate APIs and resolve related bugs.
-
-
-
+          Led a backend team of four to implement server-side logic .Collaborated with the frontend for API integration, and resolved technical issues to ensure seamless performance.
+          Developed admin dashboards, e-commerce platforms, web and mobile applications across multiple projects, delivering efficient and scalable solutions.
           </Description>
           <Description>
           Mindgrep Technologies Pvt Ltd (Software Engineer):
-          As a Software Developer, I enhanced the Godspeed CLI using React.js, Node.js, Express, and YAML DSL, boosting customer satisfaction. I increased outreach by 30% through blogs and tech videos with Docusaurus. Detailed testing with Mocha and Chai led to an error-free framework and a 20% reduction in response time.
-
-
-
-
-User
-
+          Collaborated on developing the Godspeed Framework and enhanced its CLI. Built the Godspeed web applications using React.js, Node.js, Express, YAML DSL and Docusaurus improving customer satisfaction.
+          Increased outreach by 30% through blogs and tech videos. Conducted detailed testing with Mocha and Chai, resulting in an error-free framework and a 20% reduction in response time.
           </Description>
           <Description>
           Amazon(Transportation Specialist):
           Managed transportation databases with SQL, Optimus, and BI tools. Reduced bugs by 15% using SQL and Amazon tools. Boosted capacity planning by 20% and cut operational costs by 10% through predictive modeling.     </Description>
           <Description>
           Nxtwave Disruptive Technologies( Full Stack Development Trainee ):
-          Gained hands on experience building static, responsive, and dynamic web applications using the MERN stack. Developed a strong foundation in Python and proficiency in relational and non-relational databases.       </Description>
+          Developed many web applications using the MERN stack. Developed a strong foundation in Python and proficiency in relational and non-relational databases.       </Description>
           <Description>
           Beyond tech, I find joy in teaching Tabla for the past five years, blending creativity with discipline.
-Open to collaborations and eager to explore new opportunities!
+          Open to collaborations and eager to explore new opportunities!
           </Description>
-
 
         </Background>
       </AboutContainer>
